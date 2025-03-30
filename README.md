@@ -56,12 +56,15 @@ Pillow
 
 🚀 Quick Start
 
-1. Prepare Dataset
+1. Prepare Dataset[MDMT Datasets](https://github.com/VisDrone/Multi-Drone-Multi-Object-Detection-and-Tracking)
+
 
 Place your image sequences and annotation files:
 
 data/MDMT/test/       # Sequence images (e.g., 1-1, 1-2)
 data/MDMT/new_xml/    # Ground truth XMLs
+
+how to download mmtracking：[MMtrack](https://github.com/open-mmlab/mmtracking/blob/master/docs/en/install.md)
 
 2. Prepare Models
 
@@ -85,6 +88,12 @@ python demo/your_main_script.py \
   --device cuda:0
 
 📈 Visual Outputs
+<img width="189" alt="image" src="https://github.com/user-attachments/assets/cabc197b-8ea4-4259-b42f-0a6d06756581" />
+<img width="189" alt="image" src="https://github.com/user-attachments/assets/33ad8cad-39b3-45cb-a3b5-d8e63cf303d2" />
+<img width="189" alt="image" src="https://github.com/user-attachments/assets/88bc4967-2eb5-4fc2-aadd-2b2235ee6eee" />
+<img width="189" alt="image" src="https://github.com/user-attachments/assets/deb9cea5-b8a8-4566-81e5-97364b7f213c" />
+
+
 
 Prediction results and error analysis will be saved to:
 
