@@ -87,7 +87,8 @@ python demo/your_main_script.py \
   --output2 ./result/outputB.mp4 \
   --device cuda:0
 
-📈 Visual Outputs
+📈 Visual Outputs:
+
 <img width="189" alt="image" src="https://github.com/user-attachments/assets/cabc197b-8ea4-4259-b42f-0a6d06756581" />
 <img width="189" alt="image" src="https://github.com/user-attachments/assets/33ad8cad-39b3-45cb-a3b5-d8e63cf303d2" />
 <img width="189" alt="image" src="https://github.com/user-attachments/assets/88bc4967-2eb5-4fc2-aadd-2b2235ee6eee" />
